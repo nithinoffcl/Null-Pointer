@@ -9,7 +9,7 @@ import registerServiceWorker from './registerServiceWorker';
 import {Navbar, Nav, NavItem} from 'react-bootstrap';
 
 const Root = () =>
-<Router>
+<Router basename = "/Null-Pointer/">
   <div>
 
 <Navbar>
